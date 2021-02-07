@@ -1,12 +1,13 @@
 body{
-    background-color: #13141b;
     color: #ffffff;
-    background-image: url(images/bg-image.png);
+    background-image: url(../images/mainbg.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
 }
-
+a{
+    cursor: pointer;
+}
 .form-control{
     background-color:rgba(255, 255, 255, 0.2);
     padding: 22px;
@@ -43,4 +44,8 @@ body{
 }
 footer{
     background-color: #34495e;
+}
+.sized_img{
+    max-width: 100px;
+    max-height: 100px;
 }
