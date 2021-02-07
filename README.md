@@ -11,3 +11,7 @@ Lyrics where shown with a class from Ajax!
 You can also collapse lyrics and details anytime. I showed the lyrics in the same div where song name is shown. That's why it took more time to complete.
 
 Github Page Link: https://brainless-loco.github.io/hard-rock-song-lyrics-api/
+
+
+A huge thanks to Stack-overflow as always!
+Without Stack-overflow, it wouldn't be possible for me.
